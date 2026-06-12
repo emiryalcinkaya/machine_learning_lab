@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120">
 
 # Machine Learning Lab
@@ -7,7 +8,7 @@ A personal collection of machine learning concepts, algorithms, and projects imp
 
 </div>
 
-⸻
+---
 
 ## About
 
@@ -15,7 +16,7 @@ This repository was created by me to learn machine learning through hands-on pra
 
 The goal is not only to use machine learning libraries, but also to understand how machine learning models work, how they are trained, evaluated, and applied to real-world problems.
 
-⸻
+---
 
 ## Current Progress
 
@@ -45,7 +46,7 @@ The goal is not only to use machine learning libraries, but also to understand h
 * Reinforcement Learning
 * Machine Learning Projects
 
-⸻
+---
 
 ## Purpose
 
@@ -59,7 +60,8 @@ The goal of this repository is to:
 * Prepare for technical interviews
 * Track my progress as a developer
 
-⸻
+
+---
 
 ## Learning Path
 
@@ -76,7 +78,7 @@ This repository follows a progressive learning approach:
 9. Reinforcement Learning
 10. Machine Learning Projects
 
-⸻
+---
 
 ## Technologies
 
@@ -87,7 +89,7 @@ This repository follows a progressive learning approach:
 * Scikit-Learn
 * PyTorch (Planned)
 
-⸻
+---
 
 ## Resources
 
@@ -102,16 +104,16 @@ This repository is inspired by:
 * Machine Learning Specialization
 * Kaggle
 
-⸻
+---
 
 ## Author
 
-Emir Yalçınkaya
+**Emir Yalçınkaya**
 
 Software Engineering Student
 
 GitHub: https://github.com/emiryalcinkaya
 
-⸻
+---
 
 ⭐ This repository is continuously updated as I learn new machine learning concepts, algorithms, and projects.
